@@ -1,0 +1,6 @@
+D:\Projects\Modulbank_Task1\Modulbank_Task1\bin\Debug\Modulbank_Task1.exe.config
+D:\Projects\Modulbank_Task1\Modulbank_Task1\bin\Debug\Modulbank_Task1.exe
+D:\Projects\Modulbank_Task1\Modulbank_Task1\bin\Debug\Modulbank_Task1.pdb
+D:\Projects\Modulbank_Task1\Modulbank_Task1\obj\Debug\Modulbank_Task1.csproj.CoreCompileInputs.cache
+D:\Projects\Modulbank_Task1\Modulbank_Task1\obj\Debug\Modulbank_Task1.exe
+D:\Projects\Modulbank_Task1\Modulbank_Task1\obj\Debug\Modulbank_Task1.pdb
